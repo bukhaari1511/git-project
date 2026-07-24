@@ -21,4 +21,5 @@ table{
     text-align: center;
     text-decoration: dashed;
     justify-content: center;
+    position: relative;
 }
