@@ -45,5 +45,6 @@ table{
 .li{
     text-align: center;
     text-decoration: dotted;
+    text-transform: lowercase;
 
 }
