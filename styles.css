@@ -73,4 +73,5 @@ table{
     text-align: center;
     text-decoration: dotted;
     text-transform: none;
+    text-overflow: clip;
 }
