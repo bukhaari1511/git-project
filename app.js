@@ -1,0 +1,10 @@
+// :root {
+//     /* ── Brand Palette ── */
+//     --brand-accent:       #8B1A1A;
+//     --brand-accent-hover: #701414;
+//     --brand-accent-light: rgba(139, 26, 26, 0.08);
+//     --brand-green:        #1A5C37;
+//     --brand-green-hover:  #154A2C;
+//     --brand-success:      #8B1A1A;
+//     --brand-success-hover:#6e1515;
+//     --brand-gold:         #8B6914;}
