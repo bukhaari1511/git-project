@@ -1,0 +1,1 @@
+waxaan ku practice karenaya commands git
