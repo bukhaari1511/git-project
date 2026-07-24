@@ -62,4 +62,8 @@ table{
     font-style: normal;
     font-display: fallback;
     margin-top: 90px;
+
+}
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
