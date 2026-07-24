@@ -44,5 +44,6 @@ table{
 }
 .li{
     text-align: center;
-    
+    text-decoration: dotted;
+
 }
