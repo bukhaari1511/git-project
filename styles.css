@@ -20,4 +20,5 @@ table{
     font-style: italic;
     text-align: center;
     text-decoration: dashed;
+    justify-content: center;
 }
