@@ -38,4 +38,7 @@ table{
 .ul{
     background-color: aliceblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 400;
+    font-display: auto;
 }
