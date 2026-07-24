@@ -75,4 +75,5 @@ table{
     text-transform: none;
     text-overflow: clip;
     text-shadow: #1A5C37;
+    text-wrap: inherit;
 }
