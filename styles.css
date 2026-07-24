@@ -77,4 +77,5 @@ table{
     text-shadow: #1A5C37;
     text-wrap: inherit;
     text-size-adjust: initial;
+    text-box: initial;
 }
