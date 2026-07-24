@@ -72,4 +72,5 @@ table{
     color: #1A5C37;
     text-align: center;
     text-decoration: dotted;
+    text-transform: none;
 }
