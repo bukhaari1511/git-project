@@ -23,3 +23,7 @@ table{
     justify-content: center;
     position: relative;
 }
+
+.button{
+    border-radius: 5%;
+}
